@@ -1,0 +1,1 @@
+RegularMember,22,ajun,drn,9810101010,ssss@gmail.com,Male,1-January-1950,1-January-2019,0,0.0,false,Basic,6500.0,,
